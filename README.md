@@ -9,10 +9,8 @@
 
   
 # linkedin
- [<img src="https://media.kasperskydaily.com/wp-content/uploads/sites/94/2021/11/11041734/linkedin-phishing-featured.jpg"/>](https://www.linkedin.com/in/pedro-augusto-97078b287/)
+ [<img src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2020/09/linkedin.jpg"/>](https://www.linkedin.com/in/pedro-augusto-97078b287/)
   
-  https://media.kasperskydaily.com/wp-content/uploads/sites/94/2021/11/11041734/linkedin-phishing-featured.jpg
-![linkedin](https://www.linkedin.com/in/pedro-augusto-97078b287/)
 
   # Trabalho em processo curso de informatica 
 
